@@ -1,8 +1,8 @@
 {
-    "name": "AmpareEngine/DuckDuckGo",
+    "name": "ampare-engine/duckduckgo",
     "description": "Search The Web using DuckDuckGo API",
     "require": {
         "php": "^5.3.3 || ^7.0",
-        "AmpareEngine/DuckDuckGo": "1.*"
+        "ampare-engine/duckduckgo": "1.*"
     }
 }
