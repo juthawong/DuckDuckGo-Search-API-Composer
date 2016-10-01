@@ -1,6 +1,8 @@
 {
     "name": "ampare-engine/duckduckgo",
     "description": "Search The Web using DuckDuckGo API",
+        "license": "MIT",
+
     "require": {
         "php": "^5.3.3 || ^7.0",
         "ampare-engine/duckduckgo": "1.*"
